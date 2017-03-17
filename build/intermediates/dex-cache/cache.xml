@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\1fb43de5342f59ec8b08ee79e0a25dbbbc594bdc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09adf6e61abc0fe3b2cb5b1795a7033572475fad">
+        <dex dex="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a40a1f2e4c46843b881eda4d54ea8002ca5fe325\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\465a117dfa07cea76a071c1c709e33ef66fe9cd9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e3226a14de712aa25afbc663230b351178fdaa8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d8c89d812af1d403e5b39dcd425fcde37bbbaf6">
+        <dex dex="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0172208c21f4e6bd8ae1f0dcc2f934b33761ad8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\0f14175f19d5ba5044d6e76538d75718d75b8c1e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec3360994c4007c282a4b651723603e82682b601">
+        <dex dex="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aaf3d70f31fd983c0caf7749ab818a456d4fb40d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\081bf7cebe6699a2139f573b856a216b67e9901f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_caa85419c6e2a7118fe8b9c9b63c16a3fe8f8bef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_4142c9f85ecec68d12886c7a9b630510d7a4a38f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f236310b57797693f42683e84c79837eba7a4a42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_893d7cba6fd833c845f42c6194f7ff7a73716aa7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_1efc6a5eb9346389ba0de2f5ee10a5fa311da347\classes.dex" />
+    </item>
+
+</items>

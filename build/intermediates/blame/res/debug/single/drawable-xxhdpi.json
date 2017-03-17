@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_back.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_share.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    }
+]
