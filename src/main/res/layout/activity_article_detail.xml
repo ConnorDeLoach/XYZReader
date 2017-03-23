@@ -11,7 +11,8 @@
         android:id="@+id/up_container"
         android:layout_width="match_parent"
         android:layout_height="?actionBarSize"
-        android:background="@android:color/transparent">
+        android:background="@android:color/transparent"
+        android:elevation="@dimen/app_bar_elevation">
 
         <ImageButton
             android:id="@+id/action_up"

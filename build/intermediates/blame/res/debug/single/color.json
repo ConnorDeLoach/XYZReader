@@ -8,6 +8,10 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\693da7ccbe63c4c4ea2fc4889dd6a168cc01633a\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
+        "merged": "D:\\Android\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f8962ffb8fba531a485353f945ea61fbb9b510ad\\output\\res\\color\\design_error.xml"
+    },
+    {
         "merged": "D:\\Android\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\693da7ccbe63c4c4ea2fc4889dd6a168cc01633a\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
@@ -18,6 +22,10 @@
     {
         "merged": "D:\\Android\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\693da7ccbe63c4c4ea2fc4889dd6a168cc01633a\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f8962ffb8fba531a485353f945ea61fbb9b510ad\\output\\res\\color\\design_tint_password_toggle.xml"
     },
     {
         "merged": "D:\\Android\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
