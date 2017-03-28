@@ -2,46 +2,34 @@
 <instant-run
     abi="x86"
     api-level="25"
-    build-mode="COLD"
+    build-mode="HOT_WARM"
     density="560dpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1490300964654"
+    timestamp="1490733679073"
     token="-5318145429593220712"
-    verifier="R_CLASS_CHANGE" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="861" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="138" />
+        duration="0" />
     <task
         name="verifier"
-        duration="31" />
+        duration="0" />
 
     <artifact
-        location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Android\AndroidStudioProjects\XYZReader\build\outputs\apk\XYZReader-debug.apk"
-        type="SPLIT_MAIN" />
+        location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
         build-mode="FULL"
-        timestamp="1490299373655"
+        timestamp="1490733402922"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\Android\AndroidStudioProjects\XYZReader\build\outputs\apk\XYZReader-debug.apk"
@@ -68,10 +56,10 @@
             location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\split-apk\debug\slices\slice_6.apk"
@@ -81,24 +69,12 @@
             type="SPLIT" />
     </build>
     <build
-        build-mode="COLD"
-        timestamp="1490300964654"
-        verifier="R_CLASS_CHANGE" >
+        build-mode="HOT_WARM"
+        timestamp="1490733679073"
+        verifier="COMPATIBLE" >
         <artifact
-            location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Android\AndroidStudioProjects\XYZReader\build\outputs\apk\XYZReader-debug.apk"
-            type="SPLIT_MAIN" />
+            location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

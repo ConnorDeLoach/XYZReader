@@ -31,20 +31,20 @@ ADDED from D:\Android\AndroidStudioProjects\XYZReader\src\main\AndroidManifest.x
 		ADDED from D:\Android\AndroidStudioProjects\XYZReader\src\main\AndroidManifest.xml:9:22-76
 application
 ADDED from D:\Android\AndroidStudioProjects\XYZReader\src\main\AndroidManifest.xml:11:5-48:19
-MERGED from [com.android.support:support-v13:25.3.0] C:\Users\Administrator\.android\build-cache\1fb43de5342f59ec8b08ee79e0a25dbbbc594bdc\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\Administrator\.android\build-cache\0f14175f19d5ba5044d6e76538d75718d75b8c1e\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\Administrator\.android\build-cache\465a117dfa07cea76a071c1c709e33ef66fe9cd9\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:design:25.3.0] C:\Users\Administrator\.android\build-cache\f8962ffb8fba531a485353f945ea61fbb9b510ad\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Administrator\.android\build-cache\693da7ccbe63c4c4ea2fc4889dd6a168cc01633a\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Administrator\.android\build-cache\b5494d9be4342428a6272966e16583a8778ab301\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Administrator\.android\build-cache\ea8dabec4be285cf69d01c12bd3a7f6e835087ad\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.0] C:\Users\Administrator\.android\build-cache\8ee9cfa3367e598a7ac4ca306a77ca867d98fbd2\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Administrator\.android\build-cache\3a318ea2a150ac5e73a2d6f57fb6ad3562969075\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Administrator\.android\build-cache\b6cbdf57ecfa93b94ecddcb196ca205c5a9a6500\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\.android\build-cache\d1216f6d02f0b63ae3ffd45dd101432eb10f2257\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\.android\build-cache\5f3e3c749fe4e4ff7e81bc97a77a774706193a19\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\.android\build-cache\dbf01c7a6d154952fade274ca4c3048d3a61ced9\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\.android\build-cache\5d4b31c6867e19d74a1e9a8178f21f3086698535\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v13:25.3.0] C:\Users\Administrator\.android\build-cache\352b994eca6b7cea9e8d1d231c9920ced4a47092\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\Administrator\.android\build-cache\1e2ac632a560b985683490fd36b962badae538a2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\Administrator\.android\build-cache\e5d9ea0011325eba3c1a11925b76aa24c17abe58\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.0] C:\Users\Administrator\.android\build-cache\c81dbd850a5d54891dc77608bdd98b93c810cffc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Administrator\.android\build-cache\c9388deb1faade841c54a346f681406f0f208627\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Administrator\.android\build-cache\b019894e62760a29325c4ea6746f8ece75928fec\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Administrator\.android\build-cache\5920f868d9193cd59911f1cdd187bafc3d44ec69\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] C:\Users\Administrator\.android\build-cache\70f4734a5b463f5b698d2b4eee4d81a180df9ffe\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Administrator\.android\build-cache\e994bbb7c5952b6ab09ca1eceb29ad30442f6613\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Administrator\.android\build-cache\de336a88f10306c10405a48abe3e9c2dcee2fc43\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\.android\build-cache\a1ca9ce58f872606fdb2a053593a729a19a3dd6c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\.android\build-cache\eaff6070980c1c923dcc7a9964282d15d05abd45\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\.android\build-cache\7bc5a5bc0fc3a0ee8c54a555e95650cf2b12908d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\.android\build-cache\ef0e5b2c57b80c803d28b3e2c3380803a413ec1b\output\AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from D:\Android\AndroidStudioProjects\XYZReader\src\main\AndroidManifest.xml:14:9-41
 	android:allowBackup
@@ -111,23 +111,23 @@ ADDED from D:\Android\AndroidStudioProjects\XYZReader\src\main\AndroidManifest.x
 		ADDED from D:\Android\AndroidStudioProjects\XYZReader\src\main\AndroidManifest.xml:44:13-47
 uses-sdk
 INJECTED from D:\Android\AndroidStudioProjects\XYZReader\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:support-v13:25.3.0] C:\Users\Administrator\.android\build-cache\1fb43de5342f59ec8b08ee79e0a25dbbbc594bdc\output\AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\Administrator\.android\build-cache\0f14175f19d5ba5044d6e76538d75718d75b8c1e\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\Administrator\.android\build-cache\465a117dfa07cea76a071c1c709e33ef66fe9cd9\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:25.3.0] C:\Users\Administrator\.android\build-cache\f8962ffb8fba531a485353f945ea61fbb9b510ad\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Administrator\.android\build-cache\693da7ccbe63c4c4ea2fc4889dd6a168cc01633a\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Administrator\.android\build-cache\b5494d9be4342428a6272966e16583a8778ab301\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Administrator\.android\build-cache\ea8dabec4be285cf69d01c12bd3a7f6e835087ad\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\Administrator\.android\build-cache\081bf7cebe6699a2139f573b856a216b67e9901f\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.0] C:\Users\Administrator\.android\build-cache\8ee9cfa3367e598a7ac4ca306a77ca867d98fbd2\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Administrator\.android\build-cache\3a318ea2a150ac5e73a2d6f57fb6ad3562969075\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Administrator\.android\build-cache\b6cbdf57ecfa93b94ecddcb196ca205c5a9a6500\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\.android\build-cache\d1216f6d02f0b63ae3ffd45dd101432eb10f2257\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\.android\build-cache\5f3e3c749fe4e4ff7e81bc97a77a774706193a19\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\.android\build-cache\dbf01c7a6d154952fade274ca4c3048d3a61ced9\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\.android\build-cache\5d4b31c6867e19d74a1e9a8178f21f3086698535\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v13:25.3.0] C:\Users\Administrator\.android\build-cache\352b994eca6b7cea9e8d1d231c9920ced4a47092\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\Administrator\.android\build-cache\1e2ac632a560b985683490fd36b962badae538a2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\Administrator\.android\build-cache\e5d9ea0011325eba3c1a11925b76aa24c17abe58\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.0] C:\Users\Administrator\.android\build-cache\c81dbd850a5d54891dc77608bdd98b93c810cffc\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Administrator\.android\build-cache\c9388deb1faade841c54a346f681406f0f208627\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Administrator\.android\build-cache\b019894e62760a29325c4ea6746f8ece75928fec\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Administrator\.android\build-cache\5920f868d9193cd59911f1cdd187bafc3d44ec69\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\Administrator\.android\build-cache\9e2cb9365ccc1cbb20d0fb25990a10cf8ed4ca6d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.0] C:\Users\Administrator\.android\build-cache\70f4734a5b463f5b698d2b4eee4d81a180df9ffe\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Administrator\.android\build-cache\e994bbb7c5952b6ab09ca1eceb29ad30442f6613\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Administrator\.android\build-cache\de336a88f10306c10405a48abe3e9c2dcee2fc43\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\.android\build-cache\a1ca9ce58f872606fdb2a053593a729a19a3dd6c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\.android\build-cache\eaff6070980c1c923dcc7a9964282d15d05abd45\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\.android\build-cache\7bc5a5bc0fc3a0ee8c54a555e95650cf2b12908d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\.android\build-cache\ef0e5b2c57b80c803d28b3e2c3380803a413ec1b\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v13:25.3.0] C:\Users\Administrator\.android\build-cache\1fb43de5342f59ec8b08ee79e0a25dbbbc594bdc\output\AndroidManifest.xml:23:9-52
+		ADDED from [com.android.support:support-v13:25.3.0] C:\Users\Administrator\.android\build-cache\352b994eca6b7cea9e8d1d231c9920ced4a47092\output\AndroidManifest.xml:23:9-52
 	android:targetSdkVersion
 		INJECTED from D:\Android\AndroidStudioProjects\XYZReader\src\main\AndroidManifest.xml
 		INJECTED from D:\Android\AndroidStudioProjects\XYZReader\src\main\AndroidManifest.xml
@@ -135,22 +135,22 @@ MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\.
 		INJECTED from D:\Android\AndroidStudioProjects\XYZReader\src\main\AndroidManifest.xml
 		INJECTED from D:\Android\AndroidStudioProjects\XYZReader\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v13:25.3.0] C:\Users\Administrator\.android\build-cache\1fb43de5342f59ec8b08ee79e0a25dbbbc594bdc\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\Administrator\.android\build-cache\0f14175f19d5ba5044d6e76538d75718d75b8c1e\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\Administrator\.android\build-cache\465a117dfa07cea76a071c1c709e33ef66fe9cd9\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:design:25.3.0] C:\Users\Administrator\.android\build-cache\f8962ffb8fba531a485353f945ea61fbb9b510ad\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Administrator\.android\build-cache\693da7ccbe63c4c4ea2fc4889dd6a168cc01633a\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Administrator\.android\build-cache\b5494d9be4342428a6272966e16583a8778ab301\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Administrator\.android\build-cache\ea8dabec4be285cf69d01c12bd3a7f6e835087ad\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\Administrator\.android\build-cache\081bf7cebe6699a2139f573b856a216b67e9901f\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.0] C:\Users\Administrator\.android\build-cache\8ee9cfa3367e598a7ac4ca306a77ca867d98fbd2\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Administrator\.android\build-cache\3a318ea2a150ac5e73a2d6f57fb6ad3562969075\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Administrator\.android\build-cache\b6cbdf57ecfa93b94ecddcb196ca205c5a9a6500\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\.android\build-cache\d1216f6d02f0b63ae3ffd45dd101432eb10f2257\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\.android\build-cache\5f3e3c749fe4e4ff7e81bc97a77a774706193a19\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\.android\build-cache\dbf01c7a6d154952fade274ca4c3048d3a61ced9\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\.android\build-cache\5d4b31c6867e19d74a1e9a8178f21f3086698535\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:support-v13:25.3.0] C:\Users\Administrator\.android\build-cache\352b994eca6b7cea9e8d1d231c9920ced4a47092\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\Administrator\.android\build-cache\1e2ac632a560b985683490fd36b962badae538a2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\Administrator\.android\build-cache\e5d9ea0011325eba3c1a11925b76aa24c17abe58\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.0] C:\Users\Administrator\.android\build-cache\c81dbd850a5d54891dc77608bdd98b93c810cffc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Administrator\.android\build-cache\c9388deb1faade841c54a346f681406f0f208627\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Administrator\.android\build-cache\b019894e62760a29325c4ea6746f8ece75928fec\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Administrator\.android\build-cache\5920f868d9193cd59911f1cdd187bafc3d44ec69\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\Administrator\.android\build-cache\9e2cb9365ccc1cbb20d0fb25990a10cf8ed4ca6d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] C:\Users\Administrator\.android\build-cache\70f4734a5b463f5b698d2b4eee4d81a180df9ffe\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Administrator\.android\build-cache\e994bbb7c5952b6ab09ca1eceb29ad30442f6613\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Administrator\.android\build-cache\de336a88f10306c10405a48abe3e9c2dcee2fc43\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\.android\build-cache\a1ca9ce58f872606fdb2a053593a729a19a3dd6c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\.android\build-cache\eaff6070980c1c923dcc7a9964282d15d05abd45\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\.android\build-cache\7bc5a5bc0fc3a0ee8c54a555e95650cf2b12908d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\.android\build-cache\ef0e5b2c57b80c803d28b3e2c3380803a413ec1b\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:support-v13:25.3.0] C:\Users\Administrator\.android\build-cache\1fb43de5342f59ec8b08ee79e0a25dbbbc594bdc\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:support-v13:25.3.0] C:\Users\Administrator\.android\build-cache\352b994eca6b7cea9e8d1d231c9920ced4a47092\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:support-v13:25.3.0] C:\Users\Administrator\.android\build-cache\1fb43de5342f59ec8b08ee79e0a25dbbbc594bdc\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:support-v13:25.3.0] C:\Users\Administrator\.android\build-cache\352b994eca6b7cea9e8d1d231c9920ced4a47092\output\AndroidManifest.xml:26:9-47
