@@ -1,13 +1,14 @@
 <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
-             xmlns:app="http://schemas.android.com/apk/res-auto"
-             android:layout_width="match_parent"
-             android:layout_height="match_parent"
-             android:orientation="vertical">
+                                                 xmlns:app="http://schemas.android.com/apk/res-auto"
+                                                 android:layout_width="match_parent"
+                                                 android:layout_height="match_parent"
+                                                 android:orientation="vertical">
 
     <android.support.v4.widget.SwipeRefreshLayout
         android:id="@+id/swipe_refresh_layout"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
         <android.support.v7.widget.RecyclerView
             android:id="@+id/recycler_view"
@@ -17,33 +18,38 @@
             android:paddingBottom="28dp"
             android:paddingLeft="@dimen/list_side_margin"
             android:paddingRight="@dimen/list_side_margin"
-            android:paddingTop="116dp"
             android:scrollbarStyle="outsideOverlay"/>
     </android.support.v4.widget.SwipeRefreshLayout>
 
-    <FrameLayout
+    <android.support.design.widget.AppBarLayout
         android:id="@+id/toolbar_container"
         android:layout_width="match_parent"
-        android:layout_height="112dp"
+        android:layout_height="@dimen/app_bar_height"
         android:background="?colorPrimary"
-        android:elevation="@dimen/app_bar_elevation">
+        android:elevation="@dimen/app_bar_elevation"
+        android:paddingLeft="@dimen/app_bar_left_right_padding"
+        android:paddingRight="@dimen/app_bar_left_right_padding">
 
         <android.support.v7.widget.Toolbar
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
-            android:layout_height="?actionBarSize"
-            android:layout_gravity="bottom"
+            android:layout_height="match_parent"
             android:layout_marginLeft="@dimen/list_toolbar_side_margin"
             android:layout_marginRight="@dimen/list_toolbar_side_margin"
+            android:baselineAlignBottom="false"
+            android:gravity="bottom"
+            android:paddingBottom="@dimen/title_bottom_padding"
+            app:layout_scrollFlags="scroll|enterAlways"
             app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
 
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:contentDescription="@string/app_name"
+                android:paddingStart="@dimen/title_start_padding"
                 android:src="@drawable/logo"/>
 
         </android.support.v7.widget.Toolbar>
-    </FrameLayout>
+    </android.support.design.widget.AppBarLayout>
 
 </android.support.design.widget.CoordinatorLayout>

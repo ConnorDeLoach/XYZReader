@@ -2,13 +2,13 @@
 <instant-run
     abi="x86"
     api-level="25"
-    build-mode="HOT_WARM"
+    build-mode="COLD"
     density="560dpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1490733679073"
+    timestamp="1490893381471"
     token="-5318145429593220712"
-    verifier="COMPATIBLE" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
@@ -24,16 +24,13 @@
         duration="0" />
 
     <artifact
-        location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="D:\Android\AndroidStudioProjects\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1490733402922"
+        timestamp="1490889058115"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="D:\Android\AndroidStudioProjects\XYZReader\build\outputs\apk\XYZReader-debug.apk"
-            type="SPLIT_MAIN" />
         <artifact
             location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
@@ -67,14 +64,34 @@
         <artifact
             location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
+        <artifact
+            location="D:\Android\AndroidStudioProjects\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
     <build
-        build-mode="HOT_WARM"
-        timestamp="1490733679073"
-        verifier="COMPATIBLE" >
+        build-mode="COLD"
+        timestamp="1490890542645"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
+            location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\AndroidStudioProjects\XYZReader\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1490893381471"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\Android\AndroidStudioProjects\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>
