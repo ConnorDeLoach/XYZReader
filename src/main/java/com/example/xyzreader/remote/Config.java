@@ -1,5 +1,7 @@
 package com.example.xyzreader.remote;
 
+import android.util.Log;
+
 import java.net.MalformedURLException;
 import java.net.URL;
 
@@ -10,8 +12,8 @@ public class Config {
         URL url = null;
         try {
             url = new URL("https://raw.githubusercontent.com/Protino/dump/master/Lego/data.json");
-        } catch (MalformedURLException ignored) {
-            // TODO: throw a real error
+        } catch (MalformedURLException e) {
+            Log.e("data retrieval error: ", e.getMessage());
         }
 
         BASE_URL = url;

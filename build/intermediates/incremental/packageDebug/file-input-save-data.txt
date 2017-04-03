@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Mar 30 13:03:03 EDT 2017
+#Thu Mar 30 13:30:32 EDT 2017
 210.set=ANDROID_RESOURCE
 282.file=D\:\\Android\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\notification_template_big_media.xml
 14.set=ANDROID_RESOURCE

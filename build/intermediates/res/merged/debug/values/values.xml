@@ -1971,6 +1971,9 @@
         <item name="windowNoTitle">true</item>
     </style>
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <!-- enable window content transitions -->
+        <item name="android:windowActivityTransitions">true</item>
+
         <item name="colorPrimary">@color/theme_primary</item>
         <item name="colorPrimaryDark">@color/theme_primary_dark</item>
         <item name="colorAccent">@color/theme_accent</item>
